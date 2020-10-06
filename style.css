@@ -87,7 +87,7 @@ a {
 }
 .project-tile:nth-child(n+5) {
     display: none;
-} 
+}
 .project-tile:hover {
     opacity: 1;
 }
@@ -97,7 +97,7 @@ a {
 }
 .project-tile img {
     width: 100%;
-    flex-basis: 100%;
+    flex-grow: 1;
 }
 #btn-show {
     display: block;
